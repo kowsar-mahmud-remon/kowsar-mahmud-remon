@@ -39,6 +39,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kowsar-mahmud-remon&theme=dark)](https://git.io/streak-stats)
 <p align="center">
   <img width="60%" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kowsar-mahmud-remon&theme=dark)](https://git.io/streak-stats)" />
 </p>
