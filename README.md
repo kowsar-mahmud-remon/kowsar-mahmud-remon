@@ -1,4 +1,4 @@
-![I am a Junior Front-end developer. ](https://github.com/kowsar-mahmud-remon/kowsar-mahmud-remon/blob/main/images/Web Developer.jpg)
+![I am a Full-Stack Developer. ](https://github.com/kowsar-mahmud-remon/kowsar-mahmud-remon/blob/main/images/githubcover.jpg)
 
 ## :mailbox: Reach me out
 
